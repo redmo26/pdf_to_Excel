@@ -7,8 +7,8 @@ Reads a folder of invoice PDFs and turns them into one clean Excel spreadsheet, 
 
 <p align="center">
   <img height="351" src="https://github.com/user-attachments/assets/b4c65096-1286-4e2f-9923-97ddec220400" width="32%" alt="Invoice 1">
-  <img src="https://github.com/user-attachments/assets/98f07e26-6883-4cda-a659-6e4aad041132" width="32%" alt="Invoice 2">
-  <img src="https://github.com/user-attachments/assets/18d20ee0-756f-46cc-9669-75d7936533bd" width="32%" alt="Invoice 3">
+  <img src="https://github.com/user-attachments/assets/18d20ee0-756f-46cc-9669-75d7936533bd" width="32%" alt="Invoice 2">
+  <img src="https://github.com/user-attachments/assets/98f07e26-6883-4cda-a659-6e4aad041132" width="32%" alt="Invoice 3">
 </p>
 
 <p align="center">⬇</p>
