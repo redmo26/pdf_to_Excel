@@ -6,9 +6,9 @@ Reads a folder of invoice PDFs and turns them into one clean Excel spreadsheet, 
 **Input:** three invoice PDFs
 
 <p align="center">
-  <img height="351" src="https://github.com/user-attachments/assets/948e1ffb-185d-4c88-9982-896b73f9ada0" width="32%" alt="Invoice 1">
-  <img src="https://github.com/user-attachments/assets/c564a270-c053-4b34-8124-fda3938c4ebc" width="32%" alt="Invoice 2">
-  <img src="https://github.com/user-attachments/assets/f224bfdf-3cec-4472-b9a9-3ef4821ff58c" width="32%" alt="Invoice 3">
+  <img height="351" src="https://github.com/user-attachments/assets/b4c65096-1286-4e2f-9923-97ddec220400" width="32%" alt="Invoice 1">
+  <img src="https://github.com/user-attachments/assets/98f07e26-6883-4cda-a659-6e4aad041132" width="32%" alt="Invoice 2">
+  <img src="https://github.com/user-attachments/assets/18d20ee0-756f-46cc-9669-75d7936533bd" width="32%" alt="Invoice 3">
 </p>
 
 <p align="center">⬇</p>
@@ -16,7 +16,7 @@ Reads a folder of invoice PDFs and turns them into one clean Excel spreadsheet, 
 **Output:** one Excel file, `invoices.xlsx`
 
 <p align="center">
-  <img width="1118" height="168" alt="image" src="https://github.com/user-attachments/assets/ee1a03bd-0a9c-474a-984b-e5063fe47383" />
+  <img width="1118" height="168" alt="Screenshot 2026-11-04 100755" src="https://github.com/user-attachments/assets/d65c4944-fe0f-4920-aef3-6e8cd92d06bc" />
 </p>
 
 
