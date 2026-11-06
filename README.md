@@ -28,7 +28,7 @@ Reads a folder of invoice PDFs and turns them into one clean Excel spreadsheet, 
 3. `pip install -r requirements.txt`
 4. Create a `.env` file containing `GEMINI_API_KEY=your_key`
 5. Put your PDFs in the `invoices` folder
-6. `python pdf_to_csv.py`
+6. `python pdf_to_excel.py`
 7. Your spreadsheet appears as `invoices.xlsx`
 
 Skips non-PDF files and reports any file it can't read.
